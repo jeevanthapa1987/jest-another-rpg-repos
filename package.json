@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg-repos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeevanthapa1987/jest-another-rpg-repos.git"
+  },
+  "author": "jeevan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeevanthapa1987/jest-another-rpg-repos/issues"
+  },
+  "homepage": "https://github.com/jeevanthapa1987/jest-another-rpg-repos#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
